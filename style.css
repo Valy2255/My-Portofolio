@@ -64,7 +64,7 @@ h2 {
     margin-bottom: 20px;
 }
 
-.about, .education, .projects, .skills, .work, .contact {
+.about, .projects, .skills, .work, .contact {
     background-color: #fff;
     padding: 20px;
     border-radius: 8px;
@@ -83,7 +83,7 @@ ul li {
     padding: 5px 0;
 }
 
-/* Projects Section Styling */
+
 .projects .project {
     display: flex;
     align-items: center;
@@ -131,17 +131,17 @@ ul li {
     background-color: #0056b3;
 }
 
-/* Hover Effect for Project Cards */
+
 .projects .project:hover {
     transform: scale(1.05);
 }
 
-/* Work Experience Section Styling */
+
 .work .job {
     margin-bottom: 20px;
 }
 
-/* Responsive Design */
+
 @media (max-width: 768px) {
     .container {
         width: 95%;
