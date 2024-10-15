@@ -6,7 +6,6 @@ Welcome to my personal portfolio website, showcasing my skills, projects and wor
 - **Projects**: A showcase of some of my recent development projects.
 - **Skills**: A list of technical skills, including programming languages, web technologies and frameworks that i know.
 - **Work Experience**: A summary of my professional experience.
-- **Contact**: Includes ways to contact me (email, phone).
 
 ## How to View My Portofolio
 
