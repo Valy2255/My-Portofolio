@@ -10,7 +10,7 @@ Welcome to my personal portfolio website, showcasing my skills, projects and wor
 
 ## How to View My Portofolio
 
-To view the site live, just press here [site]()
+To view the site live, just press here [site](https://valy2255.github.io/My-Portofolio/)
 
 To view this portfolio locally:
 
