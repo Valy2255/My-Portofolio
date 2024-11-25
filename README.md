@@ -17,7 +17,7 @@ To view this portfolio locally:
 2. Open `index.html` in your preferred browser.
 
 ```bash
-git clone https://github.com/yourusername/your-portfolio-repo.git
-cd your-portfolio-repo
+git clone https://github.com/Valy2255/My-Portofolio.git
+cd My-Portofolio
 open index.html
 ```
